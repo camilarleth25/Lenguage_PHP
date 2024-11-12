@@ -1,0 +1,10 @@
+# Ignorar la carpeta oculta de Docker
+**/.docker
+
+# Ignorar archivos temporales y de configuración del sistema
+*.DS_Store
+*.env
+*.swp
+
+# Archivos específicos de Visual Studio Code
+.vscode/
