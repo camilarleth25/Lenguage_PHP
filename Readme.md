@@ -18,5 +18,5 @@ Navega a la carpeta `LENGUAGE-PHP`, abre una terminal y ejecuta el siguiente com
 
 Una vez que la imagen se haya creado correctamente, inicia el contenedor Docker y asigna el puerto 8080 de tu máquina al contenedor con el siguiente comando:
 
-- docker run -p 8080:80 pagephp
+- docker run -p 8090:80 pagephp
 
